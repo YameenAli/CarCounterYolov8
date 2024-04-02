@@ -1,6 +1,6 @@
-# Car Counter using YOLOv8
+![image](https://github.com/YameenAli/CarCounterYolov8/assets/77196593/cd154d32-fd75-4943-be1d-6b2d412af188)# Car Counter using YOLOv8
 
-![Car Counter Demo](demo.gif)
+![Car Counter Demo](https://github.com/YameenAli/CarCounterYolov8/blob/main/demo.png)
 
 ## Introduction
 

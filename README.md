@@ -24,7 +24,7 @@ This project implements a car counter using YOLOv8, a state-of-the-art object de
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/car-counter-yolov8.git
+git clone https://github.com/YameenAli/CarCounterYolov8.git
 ```
 
 2. Install dependencies:
